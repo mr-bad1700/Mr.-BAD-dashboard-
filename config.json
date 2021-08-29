@@ -1,0 +1,9 @@
+{
+  "bot": {
+    "id": "879700280315367434",
+    "secret": "4ArJci8N60BOxQKSJRq1Q_AuZmBjHep4",
+    "token": "ODc5NzAwMjgwMzE1MzY3NDM0.YSTiug.LTeWGqoj1lGulk-biA8f9ETENTE"
+  },
+  "dashboardURL": "http://localhost:3000",
+  "mongoURI": "mongodb://localhost/1PG-Demo"
+}
